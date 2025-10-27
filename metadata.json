@@ -1,0 +1,5 @@
+{
+  "name": "TruthCheck AI",
+  "description": "An AI-powered fact-checking tool that analyzes claims and provides a verdict with supporting sources from the web. Enter a statement to verify its truthfulness.",
+  "requestFramePermissions": []
+}
